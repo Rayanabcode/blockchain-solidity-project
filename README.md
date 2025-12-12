@@ -1,4 +1,4 @@
-Collateralized Loan Smart Contract – Hardhat Project
+#Collateralized Loan Smart Contract – Hardhat Project
 
 This project implements and deploys a simple Collateralized Loan smart contract using Solidity and Hardhat. It includes the Solidity contract, automated tests, and a deployment script. The contract is successfully deployed on the Ethereum Sepolia Testnet.
 
@@ -29,7 +29,7 @@ npx hardhat test
 Deploying to Sepolia
 npx hardhat run scripts/deploy.js --network sepolia
 
-Notes for the Udacity Reviewer
+Notes for my Reviewer
 
 The contract compiles without errors.
 
